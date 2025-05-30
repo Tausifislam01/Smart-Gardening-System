@@ -1,4 +1,4 @@
-Smart Gardening System
+#Smart Gardening System
 Overview
 This project is a Smart Gardening System designed to automate plant care and enhance safety through environmental monitoring. The system integrates various sensors and actuators to monitor soil moisture, temperature, humidity, gas levels, and fire hazards, while also controlling an automated watering system, a door mechanism, and a humidifier for optimal plant growth conditions.
 Features
