@@ -1,4 +1,4 @@
-#Smart Gardening System
+Smart Gardening System
 Overview
 This project is a Smart Gardening System designed to automate plant care and enhance safety through environmental monitoring. The system integrates various sensors and actuators to monitor soil moisture, temperature, humidity, gas levels, and fire hazards, while also controlling an automated watering system, a door mechanism, and a humidifier for optimal plant growth conditions.
 Features
@@ -63,7 +63,7 @@ Install the Arduino IDE from arduino.cc.
 Install the required libraries (DHT.h, Adafruit_Sensor.h, DHT_U.h) via the Arduino Library Manager.
 Clone or download this repository:git clone https://github.com/yourusername/SmartGardeningSystem.git
 
-
+Note: Replace yourusername with your actual GitHub username.
 Open the .ino files in the Arduino IDE.
 
 
@@ -166,4 +166,4 @@ Thanks to Adafruit for the DHT and Unified Sensor libraries.
 Inspired by various Arduino-based smart gardening projects.
 
 Contact
-For questions or suggestions, open an issue or contact [yourusername] on GitHub.
+For questions or suggestions, open an issue or contact [yourusername] on GitHub.Note: Replace yourusername with your actual GitHub username.
